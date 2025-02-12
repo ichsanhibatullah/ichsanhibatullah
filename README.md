@@ -22,7 +22,7 @@ Hey there! I'm Ichsan, a geophysicist with a knack for data science, machine lea
 
 ---
 ## 🚀 About Me
-- 🎓 **Education:** Bachelor of Science in Geophysics, **Gadjah Mada University** (Cum Laude, GPA: 3.75/4.00)
+- 🎓 **Education:** Bachelor of Science in Geophysics, **Gadjah Mada University**
 - 💼 **Current Role:** Research Geophysicist @ Geoseismal Research Center
 - 🏗️ **Projects:** Pore pressure & geomechanics modeling, seismic fault analysis with deep learning, and passive seismic data processing
 - 🔍 **Passionate About:** Computational geophysics, programming, AI in geosciences, and stock market trends 📈
