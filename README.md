@@ -20,6 +20,17 @@ Here are some ideas to get you started:
 ## 🌍 Exploring the Depths of Geophysics & AI
 Hey there! I'm Ichsan, a geophysicist with a knack for data science, machine learning, and software development. I love blending **geophysics** with **machine learning** to uncover insights hidden beneath the Earth's surface. Right now, I'm a **Research Geophysicist** at the Geoseismal Research Center, working on cool projects like **fault analysis, seismic data processing, and geomechanics**—all powered by **AI and deep learning!** 🏔️💻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ichsanhibatullah&label=Profile%20views&color=0e75b6&style=flat" alt="tsaqifmu" /> </p>
+
+---
+## 📊 Github Statistic
+<p align="left">
+<a href="https://github.com/ichsanhibatullah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ichsanhibatullah&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ichsanhibatullah&layout=compact&langs_count=8&theme=calm"/>
+</a>
+</p>
+
 ---
 ## 🚀 About Me
 - 🎓 **Education:** Bachelor of Science in Geophysics, **Gadjah Mada University**
